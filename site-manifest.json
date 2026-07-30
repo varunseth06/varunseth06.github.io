@@ -4,6 +4,7 @@
   "basePath": "",
   "includes": [
     "validated-stock-v2",
+    "validated-trend-leaders",
     "validated-etf-v1-1"
   ],
   "excludes": [
@@ -18,7 +19,15 @@
     "runId": "2026-07-29T17-12-19-ET",
     "completedSession": "2026-07-29",
     "sourceSha256": "d048242b6efbbedf6f71969ded20feac25eabef2b754c770562e8468d7301316",
-    "htmlSha256": "539b82ecc4759383bfb4522f99c9c3a8e69a0de30fc3487734538c4789303b64"
+    "htmlSha256": "4d639a01301b3188596fb236e00ea939eb146ac8c07de1ec8dfa014b78c05613"
+  },
+  "trend": {
+    "runId": "trend-2026-07-29T17-12-19-ET",
+    "dailyScanRunId": "2026-07-29T17-12-19-ET",
+    "completedSession": "2026-07-29",
+    "sourceSha256": "6153afa95d1d57c575ff16c968257d7d09ab0213558fe242545ad639a93b3bc0",
+    "stateSha256": "8cf8c42d16859f203bb61dd28e6af1014b7f2631a5bcfbe6ce65d22dc4759fc6",
+    "htmlSha256": "4d639a01301b3188596fb236e00ea939eb146ac8c07de1ec8dfa014b78c05613"
   },
   "etf": {
     "runId": "ETF-2026-07-29T03-48-08Z",
