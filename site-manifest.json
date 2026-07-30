@@ -1,0 +1,30 @@
+{
+  "schemaVersion": "github-pages-market-snapshot-v1",
+  "generatedAt": "2026-07-29T21:12:19.381Z",
+  "basePath": "",
+  "includes": [
+    "validated-stock-v2",
+    "validated-etf-v1-1"
+  ],
+  "excludes": [
+    "owned-stocks",
+    "game-portfolios",
+    "portfolio-transactions",
+    "audit-records",
+    "d1-database",
+    "write-apis"
+  ],
+  "stock": {
+    "runId": "2026-07-29T17-12-19-ET",
+    "completedSession": "2026-07-29",
+    "sourceSha256": "d048242b6efbbedf6f71969ded20feac25eabef2b754c770562e8468d7301316",
+    "htmlSha256": "539b82ecc4759383bfb4522f99c9c3a8e69a0de30fc3487734538c4789303b64"
+  },
+  "etf": {
+    "runId": "ETF-2026-07-29T03-48-08Z",
+    "completedSession": "2026-07-28",
+    "publicationHash": "f85095b6ce54bb0e9f82a959c74293f8673edcfa9fe616310e2c1ca1fa4a737c",
+    "sourceSha256": "0ea39b09fa84d2dff221fd2fb2b85657f136af02b2a9f20f96330d597b18e2ef",
+    "htmlSha256": "6e288f2347437e08a310879b4cbd83d7c622b08f62e88c12ee88d1622d1eed85"
+  }
+}
