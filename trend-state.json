@@ -1,11 +1,11 @@
 {
   "schemaVersion": "github-trend-state-v1",
-  "dailyScanRunId": "2026-07-29T17-12-19-ET",
+  "dailyScanRunId": "2026-07-30T09-21-37-ET",
   "sessionDate": "2026-07-29",
-  "evaluatedAt": "2026-07-29T22:59:42.018Z",
-  "sourceScanHash": "f9ab89099f87339b07cf09421736c0b399823916c4045fb992aa13e2a0e8a121",
-  "sourceValidationHash": "dd56b74da59fb781e7c91ada516fd27d64e01b868b172b1bbcdb711930e741a5",
-  "priorStateHash": "bf45d4996fbfd5b0503eaeae0b64a7d0561f35a2e2b66ee80b4bbe6475b3c9ff",
+  "evaluatedAt": "2026-07-30T13:22:14.006Z",
+  "sourceScanHash": "4085ea9c6ab7bcefba446268eaa96ac1a1456d323ba981d5d9c25a20c7896611",
+  "sourceValidationHash": "4593e19c8e98fd08b37267c60f83f9ce1e06eb83bb910aff77aff7c01b37624a",
+  "priorStateHash": "ce9cbe9669004e40c75584fa9aaa525087dfa756e05302e2f193b72808f57f09",
   "roster": [
     {
       "ticker": "AAPL",
@@ -27,9 +27,9 @@
         "threshold": 324.6258606697547,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "PERCENT_ABOVE_SMA50"
@@ -41,9 +41,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "873acc6ada6f79f3a902577dfa2547b27b02eb2ead8a109f09ecac67e41a0a2a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "d7cde2d10205de566234a7798772f45d882549acbcaeecc68dd8e1b465b8d2c2",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -81,9 +81,9 @@
         "threshold": 248.54469497874803,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -96,9 +96,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "0237cae0bd5624bfa8739e3a246fa1fd0e3161f0ba5ba218f29647933bdd6e28",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "703ecb20614ac76b67c6b1df12311b569449454cd5571192b80febbd93ede869",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -136,9 +136,9 @@
         "threshold": 149.49083212084543,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -152,9 +152,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f9cce6da22cb99a82052427cf1bf5af98ca111ae0fa8df531b2d90101d49399b",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f42b3288f0f0b57430ba89ab719c2fb943b9790a616d63a24c31888b33b53af6",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -192,9 +192,9 @@
         "threshold": 101.49924364046805,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -208,9 +208,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "414521eb0fe8749be060f15db1f2e77a5931f352e234932d09af87698cba7d2a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "3a4e6f036fabcd933502374fe643c9e06f8c68637be088d7a3293db603142e25",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -248,9 +248,9 @@
         "threshold": 152.81916455125128,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -262,9 +262,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "3602338b932e4f87f6600bb7977df24e0aa3800341c3e41851e1f626394094b3",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "725bdad445f215328701d274cabc12a195315eebacb82ce48a96fab56698401d",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -302,9 +302,9 @@
         "threshold": 123.44867916849093,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -317,9 +317,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "4eb6ebba0da3f18ff100b653e392d008a7d4f94422a22a02de4b1e3a9c2c4600",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2b622422fa040b5b6d3145390981d1932408d8df89848bd7248f865909928668",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -357,9 +357,9 @@
         "threshold": 54.24460113575812,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -372,9 +372,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "79c7cdd41a2854759079e43ae35edb33726ac7c9057e0b09c1224cfdfbf02e84",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "568b58107b45e0666556ccd2e5b00069ef27ecc49cc83072783f208980e35c72",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -412,9 +412,9 @@
         "threshold": 341.60345394529514,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y"
@@ -426,9 +426,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "ee8c06528c20b469b392d58d7857fac1607cce76bf0e4696de72ee7c45f54e55",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "e1da51aa8255173bd81906f576808b9cf4bbdea356aa328fcbd21a941e231142",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -466,9 +466,9 @@
         "threshold": 275.4061476080323,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y"
       ],
@@ -479,9 +479,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "44c6d95a596ea9b5099b43f31a6e3190d255daedb3d26675a1b618b47b2e9428",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "697fc39206b954f9e0e99929fb356f7c1967d310969de137fa100f4908fb028f",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -519,9 +519,9 @@
         "threshold": 246.0949020702727,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y"
       ],
@@ -532,9 +532,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f5dd6cf15fe22410df520fdd9e9de2d9a3a78180a450cd00f6972ad596a70af0",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b11a22bf90cdd2184872874c995db5918e8154efd6c4c3b6e6e053d8d4e6ef65",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -572,9 +572,9 @@
         "threshold": 372.96361991146546,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -588,9 +588,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "34d88474304c84dd4bc65a15e9ea7e8842aa0d2d7e90686a4b5d5ff09bebbc02",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "6811e34c3bcf4eb0fd8a074b5a1e924221d116faab21248dd3d493893dd84c41",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -628,9 +628,9 @@
         "threshold": 507.50478331452183,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -647,9 +647,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "7830a6b77d973c07220566f1fd781a1be1e2546d5b3070f5fc1f9c191ec6e992",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "61b38f4fcf9836aedd24740c0a9bdb03c9a9b06a2d64003cd635df7dae2927d7",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -687,9 +687,9 @@
         "threshold": 358.8612142815873,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -704,9 +704,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "0596726bcf5cce16b007ab504be52b94fe75746f902de62b376d526c329b0a8c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "7cb1906a562fdaf746353cc56d5c79120ac8ce461cdf43f83d1e507c0dec4dcb",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -744,9 +744,9 @@
         "threshold": 59.198531613236895,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M"
@@ -758,9 +758,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "43a6380aaab3ace3cdc6e4d309dd4f389b766dfe26fe381425cd4702a535af63",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2c056a8810535e32067704126e1d530b2ac6ec24bb38721c725f656e84047fa8",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -798,9 +798,9 @@
         "threshold": 22.54496817653111,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -816,9 +816,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "19075695444968d9d1eb511771b8302621cb5b6652445737beae554530eb1973",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4beda372e19351fd5a0c9d8be92d04459ccac633e8ea53caee7ceb00c2c91a7a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -856,9 +856,9 @@
         "threshold": 81.87366505442316,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -873,9 +873,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "b26eeff6bdc56f158e9b8496158df6a40e58d85fbb7537af18b896676f54999a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b66826e73a0280352955fd58de3e6ee9df04746056506b7805be7cb39764385c",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -913,9 +913,9 @@
         "threshold": 60.85435485407738,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_6M",
         "POSITIVE_REGRESSION_SLOPES",
@@ -928,9 +928,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "05a5d9d4e5fc870166d15ab90c6e348feb6869c4d24da23cd0dfba008fc2acbc",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b5f9c0713d3fdb726e677efc07a653fc4d2c548b1ebc9f102c1b283235618532",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -968,9 +968,9 @@
         "threshold": 169.29814269447914,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [],
       "sourceStrategies": [
         "balanced",
@@ -979,9 +979,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "e4671592d35e1b4fcf433c1789815b03f663009656bc1ecc20c27e065b2dac82",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "68d36258686b73831d146407a284979a426f803dc3cc6e2ecb86197d2a8237b8",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1019,8 +1019,8 @@
         "threshold": 71.03484116338602,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -1029,9 +1029,9 @@
         "strict"
       ],
       "lastSourceType": "ACTIVE_RECHECK",
-      "lastSnapshotId": "00c5278366fea67e7c1d44463f3efb8ad953b27dc4dc0c009f8543c6e44b8604",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "24fc10b24d2bcc766ad2483941023acbe1d7c792f5bc3f8a54c83660adcf8de3",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1069,9 +1069,9 @@
         "threshold": 353.43147124251544,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M"
@@ -1083,9 +1083,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "3c400f0f126974929f59d85a07522df00aa77196f32b51eae9379860eea4bdc4",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "107ad78e8b6d30f88bb4077dd5c58895bee71be1dc5847122cc2b95759b6d953",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1123,9 +1123,9 @@
         "threshold": 352.7227606483426,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -1136,9 +1136,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "caf3cbf6e9ed83a8dfb2df48730de7ae8e23fa95e4f3e466a73a95d5464f88da",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "e15d2f723c0cb8876c723e798df50bc3caa0b8dced0f45af1d15013db315ec18",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1176,9 +1176,9 @@
         "threshold": 104.97090873977167,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -1192,9 +1192,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "f815807768b4285c82e263d1845d38ebfe9e4d3affc7164a616498df6311d3a7",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b978863b1c0adf1adcb948a54ec8f0c096b460af49e614c0543a32d560104b9f",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1232,9 +1232,9 @@
         "threshold": 112.33253842654432,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -1250,9 +1250,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "c369209a56c2305b5e9fc9d170b1cb750e869373abc3fc56c8386ee583f70ba5",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "723daf5fcf52f918a32146a04e739a4f62866fae16bc6c5d269ef01310c4ace9",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1290,9 +1290,9 @@
         "threshold": 156.3253622924534,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -1306,9 +1306,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "ef0560f716a48dfd11b47d03aae78bddc6b568745e0a557a2a9e113c29c49d44",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "fbcaa0e63f70efb2e306fecfd365782383728bfe1b2dd3fe4828dafc28cb13d0",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1346,9 +1346,9 @@
         "threshold": 311.76394034433116,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -1358,9 +1358,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "2d10bdb82a4234af39b544c9ba287e3b48cc028cfc92aac3166a75f5f2af7c4e",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "334f1776b297ac9cf78580c7514fefbcb225b183c86e297d1d0433bb9663455f",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1398,9 +1398,9 @@
         "threshold": 49.96290297069473,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -1413,9 +1413,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "6710e979031a8af32698e8886a1ae183165a478ce12fa4d66c2716152b8f2a9a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4f850ad9b2ce145710497ee4f0267049f3581577c74bb511205fc3ef9712d67e",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1453,9 +1453,9 @@
         "threshold": 45.11627525978866,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -1471,9 +1471,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "2080307c756cf91cb301c513ee3d4c0868acec4f1e4266435765473c74072376",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "ce754547eceb822a5b053d45516daa5b7831285d658464a5e2fba6b34b9f770a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1511,9 +1511,9 @@
         "threshold": 89.79762078378533,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "POSITIVE_REGRESSION_SLOPES",
@@ -1528,9 +1528,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "1214c772aae3de9a79a656408e12033a3a7469b59c920d96f8a0aa24d5841646",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f0e6a485b6f4a0b3b01d3f83b52548a006eaba7a675501cc9da3d219f553ad99",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1568,9 +1568,9 @@
         "threshold": 377.07545717896835,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -1585,9 +1585,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "2d3b5e6d895b138f87e7f6feae6c49c15988a145386f21d3a01bdb80fd72831e",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "d062aedbc6771607e9adb2e33276b2d21e08c072cb8f0e27fbfeb6f3b4869cff",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1625,9 +1625,9 @@
         "threshold": 220.64555478135426,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -1642,9 +1642,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "0031174db3cd37f8e705e8f052b9ba61bac59f9f94d6e3b093a35ff7cf330215",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "00a6251a5b4244741b1b4428edb8c59529d06c4cf0c7df484433e82985b054fa",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1682,9 +1682,9 @@
         "threshold": 219.73174004244467,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -1699,9 +1699,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "6520ea847001f5897eadf228462ee3cf2998110656685377114a2df0936581b4",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "70f5aa31d6349e7e11bb774fc5421bfece84d2c61ec3e098bab84d560f96ea2a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1739,8 +1739,8 @@
         "threshold": 50.2872841522607,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -1749,9 +1749,9 @@
         "strict"
       ],
       "lastSourceType": "ACTIVE_RECHECK",
-      "lastSnapshotId": "9dacaca0b9e82dfb593125eb6cca782cfc315dddc85a5c683a8484567158c385",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "99d55af833d23c3946c62bbbe4a006706e654de0d6a16c28bf8526df782acb02",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1789,9 +1789,9 @@
         "threshold": 42.1404498261727,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -1802,9 +1802,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "684d6d6052c6ae5383f088071796286dd0c078e1bcfea8fa0c6e08c8b0942507",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "a7ae1cf3fb08d49b2e46e1b3573b3c4c950bd5bee789ebc2e3f2b30f284c23c6",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1842,9 +1842,9 @@
         "threshold": 85.78555025253621,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -1857,9 +1857,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "c7460d377ddd200758f92dd236c9444c78be507df01963fa8ae511dbc41de14e",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "c93beecf6112a07583b8480d6faaa19d4e3f0f8f55415dcc204ce57719e8ece0",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1897,9 +1897,9 @@
         "threshold": 218.91737204351472,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -1912,9 +1912,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "60d6b4675dc4892f0fc1a727031f2932edd96cee528c9cdf3a77b2b7486bb4d3",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "7f1af9b7e4d764607cd179051b6bb859a32a71fa001bfe4c8cc777a29d21c79a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -1952,9 +1952,9 @@
         "threshold": 81.4843226438162,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [],
       "sourceStrategies": [
         "balanced",
@@ -1963,9 +1963,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "00794f2795daad8a1755649eb1c785d430ed9d2bbe765bf8ab40a27b5d22631e",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "7c2f8745cc201e394b5494ff884cb9bebe2b3e15bc13bb8cfdfb33ccb4b14de6",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2003,9 +2003,9 @@
         "threshold": 21.771980443398423,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "PERCENT_ABOVE_SMA50"
@@ -2017,9 +2017,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "4c92a2fde6fe9508a595c01ba17fb06878c6c7f692dc6de905ee6b900fab7916",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "fd292812ffcd5cd265ef003e5cdbc53db8ac90f599956beec490a5ab34b510d3",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2057,9 +2057,9 @@
         "threshold": 227.18348802841385,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "MAX_DRAWDOWN_1Y",
@@ -2071,9 +2071,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "bbee4f24aa7e8d46ba06bcc558bf399e19cdbb82de3706e641700210fd079b90",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "66e0f9bd351f7c7741631a64f44f4e361088b1cdf0212d9166ae6fd401e20004",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2111,9 +2111,9 @@
         "threshold": 206.11446435992684,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -2126,9 +2126,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "0af7cb0112f3427e33e774a414e75e46a017f3c70166da1e3f402ca44bb92cc9",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4aef825bf94b452ea0692967ae0f61a46518e7dc0ed86bee0d7a7df7de7467af",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2166,9 +2166,9 @@
         "threshold": 371.0671282960576,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -2182,9 +2182,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "85aab8a88e33c331fd83f53566b1b67ce96bca59add33b92db712943587bdc10",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "10dcb6eb7270ce99b9ca34b202dcbba8fa33e9af514dc7ce9ce2ca912e542471",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2222,9 +2222,9 @@
         "threshold": 270.9659169976949,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -2237,9 +2237,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "2e8e6b37e5e00e92d553f546348cce9236eaba3624918c1c2a207bcb8a1c26cc",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "aee8378c881d216a53fd33846bf889d3c3a9bdef1950054211c729b4cdbafa6a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2277,9 +2277,9 @@
         "threshold": 153.08888111378957,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -2293,9 +2293,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "c674ef2fb18895c594efe7e8286b21f6157db401bea6186bd0c8021353e57f74",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b0dd8ded428bc98848ddbacf81b02214f49fc2243f1362b3905388e96265219c",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2333,9 +2333,9 @@
         "threshold": 2190.354538731628,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -2350,9 +2350,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "c09426bc5aaa8fc3af42e9b02a6ec9021029bc86628adfb697b2d7ad9a4bc64a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "d8e4606623e7e334d91d04167e7ca23dfb7d056c4f342d79a8b8a6340dd7a1ec",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2390,9 +2390,9 @@
         "threshold": 74.46861375191821,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_3M",
         "REGRESSION_R2_6M",
@@ -2405,9 +2405,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "3d100ed04ff47cce078e57272bf913d79cad16f48a13ce5bb047c07fbf528f86",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b191af2b09e3ebef824e1a5f494e89f496a730bd17dc6ab10d4115a74acf1878",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2445,9 +2445,9 @@
         "threshold": 375.46769062394736,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -2462,9 +2462,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "17497d37b820ba3e4723785e07b41a408d5fc4447f21f6cd13e04e81f8bcfb81",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "74e2e0f480fa38f0544ac664cf6ebff7e0945e74dea5ec16daf88b82f1cde3af",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2502,9 +2502,9 @@
         "threshold": 85.49127760527148,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -2518,9 +2518,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "4eb6998be3165b432deb53da20d14214ade6fbce7362720122a1518a1384ea8d",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f4332862cb5182a43f1581346524034e0a4e4173370c8278b936fe53b58bcd69",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2558,9 +2558,9 @@
         "threshold": 260.21771032848767,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 3,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 4,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -2575,9 +2575,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "6f38c35b523625bd5cecb4fb043f7ec71f08e374fb78b7ef580019de732ddcc3",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "454e9824edfd78b4eddfd06736b2f780ec56dea52e81b3a09c9a9ba04598e43d",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2615,9 +2615,9 @@
         "threshold": 140.80481459958202,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 3,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 4,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -2632,9 +2632,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "42aadd34366589f540adfe4e1c0fd09bec7be9ee4b613d35cf11c8974e277b2f",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2edc4de176a3b0184f85690974586ab67c26e322af9a5a7917cef78e01f0b2c2",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2672,8 +2672,8 @@
         "threshold": 25.054761580492485,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -2683,9 +2683,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "95fe1bc2868a9b80f6df35d7a61a0f78dbfeda82c5cc09e3a61a4122fa5b7e9e",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "22a9df536256e308812629e0b95237c5097c8490345981a1beb88f358baea8a2",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2723,9 +2723,9 @@
         "threshold": 286.46370494350793,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -2736,9 +2736,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "0587515e5f42b7d408398053973d42dda50f913eb298de3e9bd8306cb8806043",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4a4bc0012556594aaa4bd1fc70603f027b4c8a074169a79a704a41a01a6f82ef",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2776,9 +2776,9 @@
         "threshold": 231.0548300302053,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_6M"
@@ -2789,9 +2789,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f365c4b615c4ce7d0204cb81fc9879ada60e15685ff5998249740efa801c2c3a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "be588ff61a6e58c4041cb3137feca539b253be80ebcab4555d14a0ff94b68c17",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2829,9 +2829,9 @@
         "threshold": 116.46495812235908,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -2844,9 +2844,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "63a8e13140175353429d8c17ef3adbfdf1cc840c73a2ea98ff44528d25dbdf88",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "29c7936787e9f2971a3fdbcde49caea51d7ab7d7660766448a610d938975e39f",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2884,9 +2884,9 @@
         "threshold": 209.1966399696947,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -2902,9 +2902,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "9fea70577ef7c05ecaaf95f99595f107b02d8b47d7f18c879241c18c0e4be565",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f123b2f16b5c0872a97eaaa93741ebfea3006e287cba012aff5487b9bb40eb0e",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2942,8 +2942,8 @@
         "threshold": 252.2546527862101,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -2952,9 +2952,9 @@
         "strict"
       ],
       "lastSourceType": "ACTIVE_RECHECK",
-      "lastSnapshotId": "454df4132d240061ea485f6cc11c9f5216b1b8928a596a263e905c5c7d04e94c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "fa8c4ed1672d7238004f85fd554dc9847d8485969c449e9a70774b3d8d206738",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -2992,9 +2992,9 @@
         "threshold": 340.802818762446,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3008,9 +3008,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "57e3dc55ab68d7604327fa04aee92d0aecde8720d09208a7f7fff6db2bed38c9",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "9adfe141d1f5395a05a0d73ac6415e4e9da5ca4a7d9365e0a7e56888d8729622",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3048,9 +3048,9 @@
         "threshold": 85.86601753641631,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -3060,9 +3060,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "37391ad403a6a628981f83390c99bf77e61daa49b5011c8de847c5cf20be37f3",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "ee5a59e9b99735f9abb58b0da0a07fa75251a84e7a1f4f3b44bda0356528ac36",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3100,9 +3100,9 @@
         "threshold": 115.40182047603423,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -3113,9 +3113,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "d80a159a7d9ce25d46c0276da5b421b0aa11d4fb914e8a525de1e5bef6fb0c49",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "348c02f1fec4e2b3e1eab2b3569a9b7df1ce4da0bbf9a11424010359f25803eb",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3153,8 +3153,8 @@
         "threshold": 161.5195964299461,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -3163,9 +3163,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "eb260e86abef0db5bd4b6f28f9f629c7a0f5d8e65902b7760e8d8928cd32963f",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2f531318f87cca7c663ecab0f75384efc8690e91fd1f725dcbaf24c86c165c2a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3203,9 +3203,9 @@
         "threshold": 288.2284214684003,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3220,9 +3220,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "6f590cadfcccdf242de6e59f764f4b1c22c857b36daa7a0becf91572a2e7f491",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "c1a67488525e23d951c0991418cfc09f6d8be460e5fd0b66011ce9acdeafadaa",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3260,9 +3260,9 @@
         "threshold": 40.40394366643222,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "PERCENT_ABOVE_SMA50"
@@ -3273,9 +3273,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "12ae70a218c80bdc7237e5b9206af13cf388721c842edb84e00ddc80ecf099bc",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "20772c4c572a52648a8093c0102e8f814c29c6e364ed61249395a06543947f64",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3313,9 +3313,9 @@
         "threshold": 64.50608291817984,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3330,9 +3330,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f12231e0c7b3e02b66ba3515e5987a9f60aeac75729dc06d22308c3a261c163a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "551a8eaf4b248cb93192cf5bd50bc053d13789b034f8918231384a3571f492ea",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3370,9 +3370,9 @@
         "threshold": 91.58884633258815,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3385,9 +3385,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "d8e91143e7cbc72ef4a6dfb40414eeaf8ea4613ce3b80669aacf366c8d765351",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "fd76233f3810fd0df75a76ce952d25fc28607c35bb44654236eafa25e5a366e9",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3425,8 +3425,8 @@
         "threshold": 41.97679789343102,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -3436,9 +3436,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "8614846d287ee7504f476fa5ba85b24658a2a85d323a10be1b60f70f452cd051",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4bf71ab7b159e6eac5fb401fe7fd5c1f5f5a6f1c441e804e2aedc4ae32dc31c2",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "REMOVED_REENTRY",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3476,9 +3476,9 @@
         "threshold": 128.84071669344738,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -3489,9 +3489,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "82ed37cf5ef0c82b396df5784ced40a698222b992eeac847070bac446c79e8a1",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "70f8b59b00ac446e0789484dde4a11c7f5ceb7eea081637358ddfd1b70f6490d",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3529,9 +3529,9 @@
         "threshold": 176.26426322305224,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "MAX_DRAWDOWN_1Y",
@@ -3544,9 +3544,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "260878b8a8b49261cb97b7db0bab84ed606d66782cae9169e3e4462910057cd7",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "e1242931c4b30b6d630c62cd7ace80a1a4fe87e77145c319ea1edd20f471f594",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3584,9 +3584,9 @@
         "threshold": 50.2122585642677,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -3602,9 +3602,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "f126e819159e1c51d11f40dd22fc732486322bdccb5e85fcc8a7dbb8de6aba48",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "9996b807dfd1bd4e705dc4bdc062312cf49a29aa1e894d446e2c2019fa980c12",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3642,9 +3642,9 @@
         "threshold": 49.54996120312705,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M",
         "PERCENT_ABOVE_SMA50"
@@ -3656,9 +3656,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "d64db761c6bab57a014facbdb772a54fa1d46ceead044f0102c29a1d3e1c2515",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "0b29bed67b8c6a4a88a85c1f988d1df57a57746511e7af728d29b55f4d40023d",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3696,9 +3696,9 @@
         "threshold": 196.0726272994347,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -3712,9 +3712,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f94425d350a230e2d56dfd98d4aaa9aec7e3c44a2f7a2249dbab004a309d07dc",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "410bbad77e8a75aa6cdf9751b18f9c68982c82bac907c5dc91fa8f9fd196a020",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3752,9 +3752,9 @@
         "threshold": 50.212434007528,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "PERCENT_ABOVE_SMA50"
       ],
@@ -3765,9 +3765,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "c30931da6dd0de51936e25531d3977e1accf388f48b7512dfb5b041b96be1b97",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "02b80828bd0ca376f8fe43e5b3d4bc188a23df196e9910c3124490fea58e0b37",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "REMOVED_REENTRY",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3805,9 +3805,9 @@
         "threshold": 127.51970025074847,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -3821,9 +3821,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "4b8cb151902ceedbdf3b08265ed2ffb39f993fb0992575cb013bfaaa22445561",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "c40cf4f8d42f6db1c37d1d816629b04d4dc74d83b435238e2cb4554da5f1b105",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3861,8 +3861,8 @@
         "threshold": 113.65559236141588,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -3871,9 +3871,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "58ce5acd4b50864443da740843e828a82129a5283112e7e5c5337d3592b47291",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f6215a2e98f79b63933955dd66192ac5141ebca2e7d963a48622f01603705ae8",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3911,9 +3911,9 @@
         "threshold": 111.2529307716241,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3928,9 +3928,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "4eed3809d6c3e24645b137836ccf6f694f07dccd98a2cdcce924792db6f0ca9c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "57cbf8aba221ea138f69fd903fdcffbe86a3a9bc276a183e4a9db30053948fa5",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -3968,9 +3968,9 @@
         "threshold": 243.99057209161327,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -3984,9 +3984,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "9e6a4137f0df2798a3bf9420cf65307978136d643764d5047fe3d74d7a6f556a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "1d55c3e6e51f3dc218177e45a5a87f01f743a16dbe9e4077864f70d5232b5277",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4024,9 +4024,9 @@
         "threshold": 301.15753772553666,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4038,9 +4038,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "7941ef640e14a47f3679c3f073f3f0c050af49a11e9248f3f5114a741d4790a2",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "5c90b06a35fb47416691f66e5f26ede03de9b2e2bbf8dbfe1eb0dc671c776a41",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4078,9 +4078,9 @@
         "threshold": 114.5312390724771,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4095,9 +4095,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "cd4d6e1e90d08f936a2d2787e71a387f229bcc2b2af838b709ebb6429ea99746",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "53e3ed53cca96e2932cd206de2382de15a247edf22e5a15b7c3d6ecbd8051f38",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4135,9 +4135,9 @@
         "threshold": 330.7881957173056,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4150,9 +4150,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "c61f3655d6d72a7e3a3b467ec272030c8b1b41c3c6afb3583b713d8123d31c61",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "6968cdcb1f687cdb75a4721645ad8356d9d73121fbf0ee4048549a67be33f3bd",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4190,9 +4190,9 @@
         "threshold": null,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
       "lastSuccessfulEvaluationAt": "2026-07-29T21:12:56.624Z",
-      "currentFailureStreak": 7,
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "INVALID_OHLC"
       ],
@@ -4203,9 +4203,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "68b204351d698a64f5c6852a68ffbd09de347ed9416fe076e7e877c5cc8d7480",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "91112eaff373864f8108526882da00fbb2c12213bbf9cb8ea18898bcc768357c",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4243,8 +4243,8 @@
         "threshold": 240.0012617630438,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -4254,9 +4254,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "ad962a418cd09b2dc604c8c6af93b3f76756423b17da7f0bc504703e3df4ad9c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "7d442fcbd050b1cf0079421e00818d8180d914313532e144489662318844a9d4",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4294,8 +4294,8 @@
         "threshold": 58.50126154334961,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -4304,9 +4304,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "6ba7be38a8d01f4153dc4d1ca7a03c7b5ba94e8b37bcffe83eb0f02aa76e6540",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "f9f0dafe1b682c5176dbf851c9f54d6254cd25a53f2b13fd5a90809f51e1edc9",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4344,9 +4344,9 @@
         "threshold": 200.19309552461704,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_6M",
         "REGRESSION_R2_1Y",
@@ -4360,9 +4360,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "a72c2699bb180b993ee6fd0059015ba1fa75de2a64700ffccfe9f71ea9bf5d34",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "1ffa98b3c6fff74f37a0537f17d7ef22e79686e31489ab58e05a92fb951ed53c",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4400,9 +4400,9 @@
         "threshold": 184.1553319750819,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "MAX_DRAWDOWN_1Y"
       ],
@@ -4413,9 +4413,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "00b4ba00163f830483133a50b61ab734842eeac6ed28cc6456c661ac8a4957ea",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "160a053a242492de7a5b6aad5f0d7128391db6302604bcc3331e5f8702eefd4d",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4453,9 +4453,9 @@
         "threshold": 97.71969796020977,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4468,9 +4468,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "e6ae147779deaaa71c43b210e538b5e4dad055e05c95a6e23903a5e6377b7f3a",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "1d0405acec18152ebf0f408ebdbd82deb0279232996f71a1a4ddf5c0fea5680e",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4508,9 +4508,9 @@
         "threshold": 117.54155231197736,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4526,9 +4526,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "bbe5a5be779c3028b54e82bdf1448c528fdd4950ac864ab76f2c33b627a65f5d",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "9eb0bf1a14bbf8078e4901bbc481a50aed6376a72281593c877db500318d6abe",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4566,8 +4566,8 @@
         "threshold": 79.76911565021626,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -4576,9 +4576,9 @@
         "strict"
       ],
       "lastSourceType": "ACTIVE_RECHECK",
-      "lastSnapshotId": "07d75c3634bb81814c593aabaa3dc6b59c137d3f7ad3f5c6d84471b1dd254e3c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "5c0c0b19b98db4b19924175437b04127e3989dae7c383dee34a48e9b98b9a7d5",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4616,9 +4616,9 @@
         "threshold": 147.71696520587577,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -4632,9 +4632,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "dc991b80ec6b3b546fec379ef0196710229a42641b0490c4102fe1be772dba9b",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "65a09280438d574441d6536697045e9779b3f23846f3aca0c96edb3cc9afc417",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4672,9 +4672,9 @@
         "threshold": 409.41136776084386,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -4685,9 +4685,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "1a78f1bb2f9257958017648462397f49fcfab793293a8145fd54b3b7c36c03c1",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "cb20b8622c68bcb7ae1f7e868caaf4a1404173df7c529c1108623696af168247",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4725,9 +4725,9 @@
         "threshold": 270.82103900701355,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 3,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 4,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -4742,9 +4742,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "48a6f686900b9037cb7434fa3ffaed34f73fba6a3b3bb0a8f479bada5c7aae58",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "a26d83eb13e00236e3b28831b6bca61a5a2d43de919641888421d57e2d12be64",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4782,9 +4782,9 @@
         "threshold": 83.12742950186521,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -4798,9 +4798,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "66e713c56770976f5e3b5ed1d8e20c35708da2f2229eaf27ea45789a70e0a932",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "a023287c41921ae49bbe9bdda4bdfa8f413674c5c103811fd8abe26547345a81",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4838,8 +4838,8 @@
         "threshold": 225.67479934471447,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
       "currentFailureStreak": 0,
       "lastFailedGates": [],
       "sourceStrategies": [
@@ -4848,9 +4848,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "9f780554ef85dbf7dfbc9348f9f18c57137d9edf1283bc1a70e223e9bd0b724c",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "1e0a786e2a7983045b0789f065275727678c546ccb6d0095106339eec47b7c77",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "ACTIVE_RETENTION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4888,9 +4888,9 @@
         "threshold": 72.49827697347855,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [],
       "sourceStrategies": [
         "balanced",
@@ -4899,9 +4899,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "b6b0c15bffc719f8ce71859b483bbf243fda2059870f826dda8e97bd4d93762f",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "579af2c74b6fd3c7f2c00312e0b515f76de5b8ff0069a1689f337e2c72752c0a",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4939,9 +4939,9 @@
         "threshold": 63.06477678456645,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -4957,9 +4957,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "78ab80c45596b19f7294f6e84efd06b0ab4479bfa37db0c0504074cbf82c648f",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "a2a0a231216fa300b0b69bed44f97b0343c2f6602e5ca183d7c70a30d06baa85",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -4997,9 +4997,9 @@
         "threshold": 140.35270156281675,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "MAX_DRAWDOWN_1Y"
       ],
@@ -5009,9 +5009,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "e1b4ad0ec5e34e438a5d429298ead1a4d6760c7181554907eeb57f2f85d34d53",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "d4eb9eddbad4e8468084d17ff29823b522e4d491c054d25c74859e7011b35b3b",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5049,9 +5049,9 @@
         "threshold": 211.6754262785831,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -5067,9 +5067,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "62ed477ca410821520897fe30066f9fab65d8685ee31e2ab2b003b8eff9935e1",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2edd9b31ae0407f0d1f834f5f950b167ab03abacfdfa4d06e956bbd6d80a8deb",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5107,9 +5107,9 @@
         "threshold": 284.6810326778948,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "PRICE_ABOVE_SMA50"
       ],
@@ -5120,9 +5120,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "6ff6edf3e00b27b465c4a9415d28bfd94a68f0042e8cba014fa208c256b51706",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "9b1d374ea2fd5d2d7ae91e1185c4cb6f6ceb9b027adf910d07ca7867b368cede",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "REMOVED_REENTRY",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5160,9 +5160,9 @@
         "threshold": 116.21110036832462,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -5176,9 +5176,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "f1c339f5d8ce0b94d2b60cda7c51d20032c67703fb99186c3e5c33f1e8b64a2d",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "09dd982fa6c011852955ea38cdd234335e3d2ac94a737a970cfa0390dada2caf",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5216,9 +5216,9 @@
         "threshold": 344.63565573554644,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M"
@@ -5230,9 +5230,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "15ab64cc1a694a70e682fe9c6cc845b342dd71900af2bcabf36f3a2e6c58a064",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "6d9d34f1dc9b73cc92d65e8b79aa8e0bf83b1a77c3d353a177c0024cfc7b7345",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5270,9 +5270,9 @@
         "threshold": 194.32519025965573,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -5286,9 +5286,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "55296b1faac9dc5454aecf584295e56a4cdd0e89100ec5e5ab456e500cc6e2c0",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "2133384ddaaab08cf5cadb362ede69b10d84403a5bc685d6bc4e4704b31d95d0",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5326,9 +5326,9 @@
         "threshold": 66.52998013682907,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -5344,9 +5344,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "d543955dc43ac5131d68dff13bb7fc1d801a65ae615c756c7618cb25da822ac2",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "e0cfbcba2938426372848c8a29204030353011d3250c994a8e47071b45d4a36b",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5384,9 +5384,9 @@
         "threshold": 58.771958806373654,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -5401,9 +5401,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "a9c4beda2662e795f6da07df7ee4ccd1c68fa0f1031d67b1cfa6846e38703f38",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "1ab7f4be0ed1f010c13df52291d4aed790d55b941c632618f407c8f8a73c10a9",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5441,9 +5441,9 @@
         "threshold": 145.00236036392334,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "REGRESSION_R2_1Y",
         "REGRESSION_R2_6M",
@@ -5455,9 +5455,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "61e060f527d0c0f32f2948b4e39f0889f47d8f850c89c57bb147e243281b6cc4",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b5a315fa9a55881fdf7b896739a0443bfed081acbbf9ad0a3cf396dbbeb4557f",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5495,9 +5495,9 @@
         "threshold": 61.79919917582239,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 4,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 5,
       "lastFailedGates": [
         "REGRESSION_R2_6M",
         "PERCENT_ABOVE_SMA50"
@@ -5509,9 +5509,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "0b596ee2b8925f9975807cd144bb2f6c80098f21f75057bf03ba1264f8667651",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "b56bad5f747fc3a920518f7e904a96e9afcbdf86aba680b640e0349d05cf2ccf",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5549,9 +5549,9 @@
         "threshold": 355.70482950082504,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 2,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 3,
       "lastFailedGates": [
         "RETURN_1Y",
         "REGRESSION_R2_1Y",
@@ -5565,9 +5565,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "f554c6f03630b30879d6e5094f19acecd3806be6beb4f9f783f8ab0c732e4072",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "fde50fe508869f71b45d4cbcc5bca9500a9fa85deeed2f0bbef16256549cac80",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5605,9 +5605,9 @@
         "threshold": 93.00607944410524,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -5618,9 +5618,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "dc236011bb3724b532496a1dc8b692d50fd677ca62f5cfa918a878ba57d3b8db",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "4c18176f9d38b80dcdce455d7cac7729d7c1ef6fdf4d4beb5059e0cfe75ccd3c",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5658,9 +5658,9 @@
         "threshold": 17.39509890550812,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 6,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 7,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -5671,9 +5671,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "654e21d27e5cdca53437413ad3aa134da1c12ff5e620c66b2f97610582325028",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "bd19c8e2592eec619ddfb03e58d848890d6da6666a2227b19da30d2af9800acf",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5711,9 +5711,9 @@
         "threshold": 285.401903171932,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -5724,9 +5724,9 @@
         "strict"
       ],
       "lastSourceType": "DAILY_SCAN",
-      "lastSnapshotId": "5d9ad9546dfca02cdff37756c3f1e3294fba5d78d279d51d64a94f97fbf3e387",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "c9c177d8b43a6c7d2de7bb159ea6aa29c8d07fc3b14af5a84c4818ed701af0df",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5764,9 +5764,9 @@
         "threshold": 234.8367537583233,
         "reason": "Latest close is more than two Wilder ATR14 units above SMA50."
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "REGRESSION_R2_6M"
       ],
@@ -5777,9 +5777,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "1471ca4d089d5e15c4c1ec05590c6b58a17a23c52e87fb71593c00b0a55b2d21",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "71700e3a6bf25034e57d0f6b9c78f67953cc856cbb5fed317cde79499f78d307",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5817,9 +5817,9 @@
         "threshold": 76.68809386528217,
         "reason": null
       },
-      "lastReconsideredAt": "2026-07-29T22:59:42.018Z",
-      "lastSuccessfulEvaluationAt": "2026-07-29T22:59:42.018Z",
-      "currentFailureStreak": 7,
+      "lastReconsideredAt": "2026-07-30T13:22:14.006Z",
+      "lastSuccessfulEvaluationAt": "2026-07-30T13:22:14.006Z",
+      "currentFailureStreak": 8,
       "lastFailedGates": [
         "RETURN_1Y",
         "RETURN_6M",
@@ -5834,9 +5834,9 @@
         "strict"
       ],
       "lastSourceType": "REMOVED_RECHECK",
-      "lastSnapshotId": "ca7d0f12661bb9a3f57e241b9f65c22bf9b1ac9d09b32ead3f5842870bb633bc",
-      "lastProcessedRunId": "2026-07-29T17-12-19-ET",
-      "updatedAt": "2026-07-29T22:59:42.018Z",
+      "lastSnapshotId": "781f816868ddfc1f6931ac64cac590ae49c516dbf8454716b5118f499176333b",
+      "lastProcessedRunId": "2026-07-30T09-21-37-ET",
+      "updatedAt": "2026-07-30T13:22:14.006Z",
       "retentionDecision": {
         "evaluationContext": "NEW_ADMISSION",
         "retentionPolicyVersion": "TREND_ADMISSION_RETENTION_V2",
@@ -5855,5 +5855,5 @@
       }
     }
   ],
-  "stateHash": "ce9cbe9669004e40c75584fa9aaa525087dfa756e05302e2f193b72808f57f09"
+  "stateHash": "bc83536ffd23360a84f84ad815e26c0e96abdc59fb095ed04dc25a4f614f4a6d"
 }
