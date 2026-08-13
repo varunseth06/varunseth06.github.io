@@ -1,6 +1,6 @@
 {
   "schemaVersion": "github-pages-market-snapshot-v1",
-  "generatedAt": "2026-08-12T03:04:24.834Z",
+  "generatedAt": "2026-08-13T03:07:44.131Z",
   "basePath": "",
   "includes": [
     "validated-stock-v2",
@@ -16,24 +16,24 @@
     "write-apis"
   ],
   "stock": {
-    "runId": "2026-08-11T23-04-23-ET",
-    "completedSession": "2026-08-11",
-    "sourceSha256": "7ed8fd26264d3bde442580109221f8b4f4512f8fcc22bb5df55ba4dff8c6ed14",
-    "htmlSha256": "cae25369363dd2419f2cac774571507ce66d996827440c3209dfae7015b78fd3"
+    "runId": "2026-08-12T23-07-44-ET",
+    "completedSession": "2026-08-12",
+    "sourceSha256": "707bf6473237480184977d5201549a6103e8d242ca6571d3ffd35825a24fba0a",
+    "htmlSha256": "dd29e629086bfe9ff6bac833ad999edf631467ee2c71b751c8e3e87c209a3adf"
   },
   "trend": {
-    "runId": "trend-2026-08-11T23-04-23-ET",
-    "dailyScanRunId": "2026-08-11T23-04-23-ET",
-    "completedSession": "2026-08-11",
-    "sourceSha256": "111003fe64c852ca6fa81ed3b2a8fe865d63115574f320b149e2e30a666b63e9",
-    "stateSha256": "d197b63e03308d5844ef1742247a290430d0d2f243cd0838728418105abc0322",
-    "htmlSha256": "cae25369363dd2419f2cac774571507ce66d996827440c3209dfae7015b78fd3"
+    "runId": "trend-2026-08-12T23-07-44-ET",
+    "dailyScanRunId": "2026-08-12T23-07-44-ET",
+    "completedSession": "2026-08-12",
+    "sourceSha256": "b5c3b5f21fc7d389c2f6fe709dd4f3444a205ccbe55d48b69e20fb4bafddfb3c",
+    "stateSha256": "20d75d4ea2dc3d924eaa502993dd4009c462fb87130b415d35f573d17903e729",
+    "htmlSha256": "dd29e629086bfe9ff6bac833ad999edf631467ee2c71b751c8e3e87c209a3adf"
   },
   "etf": {
-    "runId": "ETF-2026-08-12T03-04-24Z",
-    "completedSession": "2026-08-11",
-    "publicationHash": "8e63d5ca63b85e3cd73e863994a2615f5872135a1733ee36985d0bf9c18cf22a",
-    "sourceSha256": "f72ee86c08f2baa862ed771cd9ace6c7d2e117e3937ec118ab667d33b2de375d",
-    "htmlSha256": "6f28dd28d715ccc7bcaa72209dff2301fffa0ac33b0d18ea7c5e59cc794e5c12"
+    "runId": "ETF-2026-08-13T03-07-39Z",
+    "completedSession": "2026-08-12",
+    "publicationHash": "9f0c62e44805aadbb9ea3541397d6dd4ca9da3f84d8bc72c6c27956ae2246785",
+    "sourceSha256": "cf265b9a6a66cfd91d40aaad78b8ab7366f083a590970e9c0bcb86eda30e3f82",
+    "htmlSha256": "737734cad5b2a97ddaaba02f34267a697cbf43fde0db591e2dd181b9596e697f"
   }
 }
